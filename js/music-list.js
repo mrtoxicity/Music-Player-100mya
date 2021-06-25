@@ -1,0 +1,98 @@
+let allMusic = [
+  {
+    name: "We Belong",
+    artist: "Dove Cameron",
+    img: "We",
+    src: "We",
+  },
+  {
+    name: "People I Don’t Like",
+    artist: "UPSAHL",
+    img: "People",
+    src: "People",
+  },
+  {
+    name: "Sleep on My Shoulder",
+    artist: "Brazzaville",
+    img: "Sleep",
+    src: "Sleep",
+  },
+  {
+    name: "Strawberries & Cigarettes",
+    artist: "Troye Sivan",
+    img: "Strawberries",
+    src: "Strawberries",
+  },
+  {
+    name: "Ghost Of You",
+    artist: "5 Seconds Of Summer",
+    img: "Ghost",
+    src: "Ghost",
+  },
+  {
+    name: "always",
+    artist: "keshi",
+    img: "Always",
+    src: "Always",
+  },
+  {
+    name: "Echo",
+    artist: "Armaan Malik, Eric Nam with KSHMR",
+    img: "Echo",
+    src: "Echo",
+  },
+  {
+    name: "Lost Stars",
+    artist: "Adam Levine",
+    img: "Lost",
+    src: "Lost",
+  },
+  {
+    name: "Sehra",
+    artist: "Ankit Tiwari",
+    img: "Sehra",
+    src: "Sehra",
+  },
+  {
+    name: "good 4 u",
+    artist: "Olivia Rodrigo",
+    img: "Good",
+    src: "Good",
+  },
+  {
+    name: "Bailando (English Version)",
+    artist: "Enrique Iglesias",
+    img: "Bailando",
+    src: "Bailando",
+  },
+  {
+    name: "Selfie Maine Leli Aaj",
+    artist: "Dhinchak Pooja",
+    img: "Selfie",
+    src: "Selfie",
+  },
+  {
+    name: "Tommy | Feelings",
+    artist: "Yashraj Mukhate",
+    img: "Tommy",
+    src: "Tommy",
+  },
+  {
+    name: "Biggini Shoot",
+    artist: "Yashraj Mukhate",
+    img: "BShoot",
+    src: "BShoot",
+  },
+  {
+    name: "Bekhayali",
+    artist: "Sachet Tandon",
+    img: "Bekhayali",
+    src: "Bekhayali",
+  },
+  {
+    name: "Perfect",
+    artist: "Ed Sheeran",
+    img: "Perfect",
+    src: "Perfect",
+  },
+];
